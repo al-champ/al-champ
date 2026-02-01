@@ -1,16 +1,53 @@
-## Hi there 👋
+# Muhammad Ali
 
-<!--
-**al-champ/al-champ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a strong interest in Artificial Intelligence, software development, and research-driven problem solving.  
+I enjoy building systems from the ground up, understanding how technology works beneath the surface, and applying AI concepts to real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Bachelor’s in Computer Science**  
+NED University of Engineering & Technology  
+Graduated: 2025
+
+---
+
+## 🔍 Areas of Interest
+- Artificial Intelligence and Machine Learning  
+- Software Engineering  
+- Data Analysis and Intelligent Systems  
+- Applied and academic research
+
+---
+
+## 🛠 Technical Skills
+- **Programming:** Python, JavaScript  
+- **Web Technologies:** HTML, CSS  
+- **Core Concepts:** Data Structures, Networking Fundamentals, AI Foundations  
+- **Tools & Platforms:** Git, GitHub, Linux  
+- **Currently Exploring:** Advanced AI models, system design, research methodologies
+
+---
+
+## 📌 Selected Projects
+### Event Tracking System
+A web-based analytics platform designed to track user interactions, browser information, and visitor behavior across multiple websites, inspired by modern analytics tools.
+
+### Internship Projects (OIBSIP)
+Hands-on experience working on structured development tasks, focusing on frontend technologies and practical implementation of concepts.
+
+---
+
+## 🌱 Current Focus
+- Strengthening foundations in Artificial Intelligence  
+- Writing cleaner, more maintainable code  
+- Preparing for postgraduate studies in AI and related fields
+
+---
+
+## 📫 Connect
+- **LinkedIn:** https://www.linkedin.com/in/alchamp
+
+---
+
+> *I believe meaningful technology is built by combining strong fundamentals, curiosity, and consistent effort.*
